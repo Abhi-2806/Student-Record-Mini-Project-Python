@@ -65,13 +65,12 @@ python --version
 ### Execution Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/student-data-management.git
-   cd student-data-management
+     https://github.com/Abhi-2806/Student-Record-Mini-Project-Python.git
    ```
 
 2. **Run the script:**
    ```bash
-   python student_data_manager.py
+   Student-Data-Mini-Project.ipynb
    ```
 
 3. **Follow the interactive prompts:**
@@ -118,5 +117,5 @@ Abhishek - Marks: 98
 ## 👤 Author
 
 - **Abhishek Pathak**
-- **GitHub:** [@Abhi-2806](https://github.com/Abhi-2806)
 - **LinkedIn:** [Abhishek Pathak](https://www.linkedin.com/in/abhishekpathak2806/)
+- **Contact No:** [6307017308]
